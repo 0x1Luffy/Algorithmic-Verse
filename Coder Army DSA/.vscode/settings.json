@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.css": "tailwindcss",
-        "*.cpp": "cpp",
-        "*.js": "javascript",
-        "iostream": "cpp"
-    }
-}
